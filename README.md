@@ -1,2 +1,2 @@
 # Bootcamp_Ilmhub
-> These are files from my bootcamp course.
+> These are files of my bootcamp course from 2022.
